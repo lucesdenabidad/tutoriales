@@ -1,0 +1,9 @@
+name: PluginTutorial
+version: '1.0'
+main: datta.dev.pluginTutorial.Main
+api-version: '1.21'
+prefix: PluginTutorial
+load: POSTWORLD
+authors: [datta]
+description: Un plugin tutorial para los papuas
+website: elpapu.com

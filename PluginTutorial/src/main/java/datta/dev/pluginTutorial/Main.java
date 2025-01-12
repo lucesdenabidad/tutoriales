@@ -8,7 +8,7 @@ public final class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        Bukkit.getPluginManager().registerEvents(new BlockBreakListener(), this);
+        Bukkit.getPluginManager().registerEvents(new BlockBreakListener(), this); // Registramos el listener
     }
 
     @Override
